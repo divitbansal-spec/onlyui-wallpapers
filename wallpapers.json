@@ -5,11 +5,58 @@
     "category": "Space",
     "premium": false
   },
-
   {
     "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall3.webp",
     "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall3.webp",
     "category": "Space",
     "premium": false
+  },
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall13.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall13.webp",
+    "category": "Space",
+    "premium": true
+  },
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall14.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall14.webp",
+    "category": "Space",
+    "premium": true
+  },
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall15.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall15.webp",
+    "category": "Space",
+    "premium": true
+  },
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall16.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall16.webp",
+    "category": "Space",
+    "premium": true
+  },
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall17.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall17.webp",
+    "category": "Space",
+    "premium": true
+  },
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall18.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall18.webp",
+    "category": "Space",
+    "premium": true
+  },
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall19.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall19.webp",
+    "category": "Space",
+    "premium": true
+  },
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall20.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall20.webp",
+    "category": "Space",
+    "premium": true
   }
 ]
