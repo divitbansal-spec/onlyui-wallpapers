@@ -97,6 +97,12 @@
   "premium": true
 },
 {
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall25.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall25.webp",
+  "category": "Nature",
+  "premium": true
+},
+{
   "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall26.webp",
   "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall26.webp",
   "category": "Nature",
