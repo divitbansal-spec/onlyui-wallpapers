@@ -175,4 +175,71 @@
   "category": "Abstract",
   "premium": true
 }
+,
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall6.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall6.webp",
+  "category": "Dream",
+  "premium": false
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall7.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall7.webp",
+  "category": "Dream",
+  "premium": false
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall11.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall11.webp",
+  "category": "Dream",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall12.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall12.webp",
+  "category": "Dream",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall34.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall34.webp",
+  "category": "Dream",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall35.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall35.webp",
+  "category": "Dream",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall36.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall36.webp",
+  "category": "Dream",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall37.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall37.webp",
+  "category": "Dream",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall38.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall38.webp",
+  "category": "Dream",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall39.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall39.webp",
+  "category": "Dream",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/dream/wall40.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/dream/wall40.webp",
+  "category": "Dream",
+  "premium": true
+}
 ]
