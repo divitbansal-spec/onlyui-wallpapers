@@ -60,3 +60,52 @@
     "premium": true
   }
 ]
+,
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall4.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall4.webp",
+  "category": "Nature",
+  "premium": false
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall5.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall5.webp",
+  "category": "Nature",
+  "premium": false
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall21.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall21.webp",
+  "category": "Nature",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall22.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall22.webp",
+  "category": "Nature",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall23.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall23.webp",
+  "category": "Nature",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall24.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall24.webp",
+  "category": "Nature",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall25.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall25.webp",
+  "category": "Nature",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/nature/wall26.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/nature/wall26.webp",
+  "category": "Nature",
+  "premium": true
+}
