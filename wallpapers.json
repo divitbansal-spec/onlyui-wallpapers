@@ -1,0 +1,15 @@
+[
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall2.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall2.webp",
+    "category": "Space",
+    "premium": false
+  },
+
+  {
+    "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/space/wall3.webp",
+    "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/space/wall3.webp",
+    "category": "Space",
+    "premium": false
+  }
+]
