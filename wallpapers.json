@@ -108,4 +108,71 @@
   "category": "Nature",
   "premium": true
 }
+,
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall1.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall1.webp",
+  "category": "Abstract",
+  "premium": false
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall8.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall8.webp",
+  "category": "Abstract",
+  "premium": false
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall9.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall9.webp",
+  "category": "Abstract",
+  "premium": false
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall10.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall10.webp",
+  "category": "Abstract",
+  "premium": false
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall27.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall27.webp",
+  "category": "Abstract",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall28.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall28.webp",
+  "category": "Abstract",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall29.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall29.webp",
+  "category": "Abstract",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall30.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall30.webp",
+  "category": "Abstract",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall31.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall31.webp",
+  "category": "Abstract",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall32.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall32.webp",
+  "category": "Abstract",
+  "premium": true
+},
+{
+  "thumbnail": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/thumbnails/abstract/wall33.webp",
+  "full": "https://cdn.jsdelivr.net/gh/divitbansal-spec/onlyui-wallpapers@main/wallpapers/full/abstract/wall33.webp",
+  "category": "Abstract",
+  "premium": true
+}
 ]
