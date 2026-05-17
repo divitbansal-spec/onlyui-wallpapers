@@ -1,6 +1,9 @@
 {
-  "server_online": true,
   "maintenance_mode": false,
-  "force_update": true,
-  "latest_version": "1.0.1"
+  "maintenance_message": "",
+  "resume_time": 0,
+
+  "force_update": false,
+  "latest_version": 1,
+  "update_message": "Please update OnlyUI to continue."
 }
