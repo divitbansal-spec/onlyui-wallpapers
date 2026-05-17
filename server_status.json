@@ -1,6 +1,6 @@
 {
   "server_online": true,
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "maintenance_message": "",
   "resume_time": 0,
   "force_local_mode": false
