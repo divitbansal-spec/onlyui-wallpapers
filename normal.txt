@@ -1,5 +1,5 @@
 {
-  "maintenance_mode": true,
-  "maintenance_message": "OnlyUI servers are under maintenance.",
-  "resume_time": 1747600000000
+  "maintenance_mode": false,
+  "maintenance_message": "",
+  "resume_time": 0
 }
