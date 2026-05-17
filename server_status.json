@@ -1,9 +1,5 @@
 {
-  "maintenance_mode": false,
-  "maintenance_message": "",
-  "resume_time": 0,
-
-  "force_update": true,
-  "latest_version": 999,
-  "update_message": "A critical update is required to continue using OnlyUI."
+  "maintenance_mode": true,
+  "maintenance_message": "OnlyUI servers are under maintenance.",
+  "resume_time": 1779021576201
 }
