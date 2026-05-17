@@ -1,0 +1,7 @@
+{
+  "server_online": false,
+  "maintenance_mode": true,
+  "maintenance_message": "OnlyUI servers are under maintenance.",
+  "resume_time": 1747600000000,
+  "force_local_mode": true
+}

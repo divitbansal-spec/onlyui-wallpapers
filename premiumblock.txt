@@ -1,0 +1,6 @@
+{
+  "server_online": true,
+  "maintenance_mode": false,
+  "premium_enabled": false,
+  "force_local_mode": false
+}

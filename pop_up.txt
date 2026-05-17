@@ -1,0 +1,4 @@
+{
+  "announcement_enabled": true,
+  "announcement_text": "New Wallpapers Added!"
+}

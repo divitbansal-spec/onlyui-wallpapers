@@ -1,0 +1,7 @@
+{
+  "server_online": true,
+  "maintenance_mode": false,
+  "maintenance_message": "Servers recovering slowly.",
+  "resume_time": 0,
+  "force_local_mode": false
+}
