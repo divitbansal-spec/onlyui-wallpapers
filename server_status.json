@@ -3,7 +3,7 @@
   "maintenance_message": "",
   "resume_time": 0,
 
-  "force_update": false,
-  "latest_version": 1,
-  "update_message": "Please update OnlyUI to continue."
+  "force_update": true,
+  "latest_version": 999,
+  "update_message": "A critical update is required to continue using OnlyUI."
 }
